@@ -27,10 +27,14 @@ h1
     display: none;
 } */
 
-#contents
-{
+#page-wrap {
      width: 800px;
      margin: 0 auto;
+}
+
+.contents
+{
+    margin-left: 80px;
 }
 
 table td
