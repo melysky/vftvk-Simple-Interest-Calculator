@@ -12,13 +12,6 @@ h1
 }
 
 
-.wrapper {
-  height: 300px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .maindiv
 {
     background-color: #ffffff;
@@ -26,7 +19,9 @@ h1
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* #result
