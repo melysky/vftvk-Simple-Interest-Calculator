@@ -29,7 +29,8 @@ h1
 
 #page-wrap {
      width: 800px;
-     margin: 0 auto;
+     margin: center;
+     align-content: center;
 }
 
 .contents
