@@ -3,6 +3,7 @@ body
     background-color: #000000;
     color: #ffffff;
     font-family: Arial;
+    align-content: center;
 }
 
 h1
@@ -18,8 +19,7 @@ h1
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    margin-left: auto;
-    margin-right: auto;
+    align-content: center;
 }
 
 /* #result
@@ -59,7 +59,7 @@ table td
 {
     color: #ffffff;
     font-family: Arial;
-    position:fixed;
+    align-content: center;
 }
 
 .labels
