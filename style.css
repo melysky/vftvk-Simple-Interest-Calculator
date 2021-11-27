@@ -19,9 +19,7 @@ h1
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 /* #result
@@ -31,7 +29,8 @@ h1
 
 .contents
 {
-    margin-left: 80px;
+     width: 800px;
+     margin: 0 auto;
 }
 
 table td
