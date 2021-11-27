@@ -3,13 +3,16 @@ body
     background-color: #000000;
     color: #ffffff;
     font-family: Arial;
-    align-content: center;
 }
 
 h1
 {
     color: grey;
     font-family: Verdana;
+}
+
+#main{
+  margin: 0px auto;
 }
 
 .maindiv
@@ -30,13 +33,11 @@ h1
 .contents
 {
     margin-left: 80px;
-    align-content: center;
 }
 
 table td
 {
     padding-bottom: 10px;
-    align-content: center;
 }
 
 #compute
