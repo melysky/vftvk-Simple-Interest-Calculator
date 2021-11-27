@@ -7,10 +7,9 @@ body
 
 h1
 {
-    color: grey;
+    color: #808080;
     font-family: Verdana;
 }
-
 
 .maindiv
 {
@@ -19,8 +18,10 @@ h1
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 /* #result
 {
     display: none;
@@ -39,8 +40,8 @@ table td
 #compute
 {
     margin-bottom: 10px;
-    background-color: blue;
-    color: white;
+    background-color: #0000FF;
+    color: #ffffff;
     height: 40px;
     width: 325px;
 }
