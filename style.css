@@ -64,7 +64,9 @@ table td
 
 #footer
 {
-    margin-top: 10px;
+  text-align: center;
+  padding: 3px;
+  color: #000000;
 }
 
 .labels
