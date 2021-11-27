@@ -10,7 +10,6 @@ h1
 {
     color: grey;
     font-family: Verdana;
-    align-content: center;
 }
 
 .maindiv
@@ -20,7 +19,8 @@ h1
     width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* #result
@@ -31,7 +31,6 @@ h1
 .contents
 {
     margin-left: 80px;
-    align-content: center;
 }
 
 table td
@@ -59,7 +58,6 @@ table td
 
 #footer
 {
-    color: #000000;
     align-content: center;
 }
 
