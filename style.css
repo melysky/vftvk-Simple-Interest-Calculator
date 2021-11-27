@@ -11,8 +11,12 @@ h1
     font-family: Verdana;
 }
 
-#main{
-  margin: 0px auto;
+
+.wrapper {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .maindiv
